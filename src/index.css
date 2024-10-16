@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Alata&family=Merienda:wght@300..900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-size: 15px;
+  font-family: "Alata", sans-serif;
+  font-weight: 400;
+}
